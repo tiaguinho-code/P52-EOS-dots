@@ -1,0 +1,3 @@
+systemctl suspend
+~/.config/hypr/scripts/default/lock
+hyprctl reload
